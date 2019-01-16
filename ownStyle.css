@@ -21,8 +21,10 @@ body {
    color: red;
 }
 .jumbotron{
-    background-color:black;
+    background-color: lightblue;
+    margin-bottom: 0px;
+    padding: 20px;
 }
-.jumbotron2{
-    background-color: purple;
+.video{
+    opacity: 100%;
 }
