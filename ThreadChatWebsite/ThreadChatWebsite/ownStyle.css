@@ -9,19 +9,17 @@ body {
     width: 100%;
 }
 .stukje {
-    
-}
-.jumbotron {    
-    border: 5px solid black;
-}
-.persoonlijkStukje{
-    background-color: antiquewhite;
+    background-color: whitesmoke;
     padding: 30px;
-    border: 5px solid black;    
+    border: 1px solid black;
+    border-radius: 25px;
 }
 .navigatiestrook{
     padding-bottom: 15px;
 }
 .rood{
    color: red;
+}
+.jumbotron{
+    background-color:lightblue;
 }
