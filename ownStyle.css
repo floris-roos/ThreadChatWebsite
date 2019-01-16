@@ -11,7 +11,7 @@ body {
 .stukje {
     background-color: whitesmoke;
     padding: 30px;
-    border: 1px solid black;
+    border: 0.4px solid black;
     border-radius: 25px;
 }
 .navigatiestrook{
@@ -21,5 +21,8 @@ body {
    color: red;
 }
 .jumbotron{
-    background-color:lightblue;
+    background-color:black;
+}
+.jumbotron2{
+    background-color: purple;
 }
