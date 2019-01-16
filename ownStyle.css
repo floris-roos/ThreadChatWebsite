@@ -1,0 +1,25 @@
+﻿/*voor ID gebruik je een '#'
+voor class gebruik je een '.'*/
+
+body {
+    background-color: lightblue;
+    font-family: 'Montserrat', sans-serif;
+}
+.bovenfoto {
+    width: 100%;
+}
+.stukje {
+    background-color: whitesmoke;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+.navigatiestrook{
+    padding-bottom: 15px;
+}
+.rood{
+   color: red;
+}
+.jumbotron{
+    background-color:lightblue;
+}
