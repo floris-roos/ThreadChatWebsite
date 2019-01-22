@@ -2,7 +2,7 @@
 voor class gebruik je een '.'*/
 
 body {
-    background-color: lightblue;
+    background-color: #F4511E;
     font-family: 'Montserrat', sans-serif;
 }
 .bovenfoto {
@@ -21,7 +21,7 @@ body {
    color: red;
 }
 .jumbotron{
-    background-color: lightblue;
+    background-color: #F4511E;
     margin-bottom: 0px;
     padding: 20px;
 }
