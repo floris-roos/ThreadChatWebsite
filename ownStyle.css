@@ -22,9 +22,17 @@ body {
 }
 .jumbotron{
     background-color: #F4511E;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
     padding: 20px;
 }
 .video{
     opacity: 100%;
+}
+.fotostukjes{
+    background-color: whitesmoke;
+    padding: 30px;
+    border: 0.4px solid black;
+    border-radius: 25px;
+    width: 80%;
+    
 }
